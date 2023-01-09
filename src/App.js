@@ -43,6 +43,8 @@ function App() {
 
       if (index % 2 !== currenIndex % 2) {
         setDirection(movingDir);
+        // test
+        // test
       }
     }
   };
