@@ -7,7 +7,7 @@ const yCells = 10;
 const titleWidth = 50;
 const titleHeight = 50;
 
-const bodyColor = "#00ff00";
+const bodyColor = "#00ff";
 const headColor = "#ff0000";
 const speed = 500;
 

@@ -9,4 +9,9 @@ flex-direction: column;
 .board{
 position: relative;
 border: 2px solid black
+
+}
+
+body{
+  background-image:url(./Heartthrob\ Hog\ Nose\ Snakes\,\ Blush.jpeg) ;
 }
